@@ -1,0 +1,19 @@
+b{
+    color:darkgreen;
+    font-family:'Times New Roman', Times, serif;
+}
+
+label{
+    color:black;
+}
+
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-size:70px;
+}
+
+.heading{
+    width: 100%;
+    color:red;
+    font-family:'Times New Roman', Times, serif;
+}
